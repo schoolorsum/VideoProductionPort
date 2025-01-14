@@ -1,6 +1,6 @@
 # Alex Teeples' Video Production Portfolio
 
-add bio for self
+Add bio for self
 
 ## Project for Term 3
 
